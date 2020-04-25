@@ -180,7 +180,7 @@ a.nav-link:visited {
 
   margin-right: auto;
   margin-left: auto;
-  max-width: 22rem;
+  max-width: 17rem;
   @media (min-width: $large-breakpoint) {
     margin-left: 50%;
   }
@@ -222,7 +222,7 @@ a.nav-link:visited {
 .menu ul li a {
   float: left;
   margin: 0;
-  padding: 1rem 1rem;
+  padding: 1rem 0.5rem;
   // text-decoration: none;
 }
 
