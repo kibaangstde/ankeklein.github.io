@@ -31,11 +31,11 @@ footer {
 
 .feature {
   position: relative;
-  height: 45rem;
+  height: 30rem;
   text-align: center;
-  @media (min-width: $large-breakpoint) {
-    height: 35rem;
-  }
+  // @media (min-width: $large-breakpoint) {
+  //   height: 35rem;
+  // }
 }
 
 .feature-text img {
@@ -186,4 +186,46 @@ a.feature-link:hover {
   100% {
     opacity: 1;
   }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.posts-container {
+  max-width: 1000px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: 0 auto;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  flex: 0 1 auto;
+  flex-direction: row;
+  box-sizing: border-box;
+  // margin-left: -15px;
+  // margin-right: -15px;
+}
+
+/* Create two equal columns that sits next to each other */
+.column {
+  padding-left: 15px;
+  padding-right: 15px;
+  width: 100%;
+  @media (min-width: $middle-breakpoint) {
+    width: 50%;
+  }
+}
+
+.article {
+  margin-bottom: 30px;
+  border-radius: 0 0 3px 3px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);
+}
+
+.article-content {
+  padding: 25px;
+  max-height: 14rem;
 }
