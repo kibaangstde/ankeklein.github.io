@@ -27,61 +27,39 @@ title: Home
 
 <div class="posts-container">
   <div class="row">
+    {% for post in site.posts %} {% if forloop.index > 1 %}
     <div class="column">
       <div class="article">
         <div class="article-head">
-          <img src="{{ site.url }}{{site.posts[1].image}}" />
+          <img src="{{ site.url }}{{post.image}}" />
         </div>
         <div class="article-content">
-          <h2>{{site.posts[1].title}}</h2>
-          <p>{{ site.posts[1].excerpt }}</p>
+          <h2>{{post.title}}</h2>
+          <p>{{ post.excerpt }}</p>
         </div>
       </div>
     </div>
-    <div class="column">
-      <div class="article">
-        <div class="article-head">
-          <img src="{{ site.url }}{{site.posts[2].image}}" />
-        </div>
-        <div class="article-content">
-          <h2>{{site.posts[2].title}}</h2>
-          <p>{{ site.posts[2].excerpt }}</p>
-        </div>
-      </div>
+    {% endif %} {% endfor %}
+  </div>
+</div>
+
+<hr />
+
+<div class="bottom-menu-container">
+  <div class="bottom-menu-row">
+    <div class="bottom-menu-column">
+      <h4>RECENT POSTS</h4>
+      {% for post in site.posts limit:3 %} {% if forloop.index > 1 %}
+      <img class="bottom-menu-img" src="{{ site.url }}{{post.image}}" />
+      {% endif %} {% endfor %}
+    </div>
+    <div class="bottom-menu-column">
+      <h4>CONTACT</h4>
+    </div>
+    <div class="bottom-menu-column">
+      <h4>SOCIAL</h4>
     </div>
   </div>
 </div>
 
-<!-- <div>
-  {% for post in site.posts %} {% if forloop.index > 1 %}
-  <h1 class="post-title">
-    <a href="{{ site.baseurl }}{{ post.url }}">
-      {{ post.title }}
-    </a>
-  </h1>
-
-  <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date"
-    >{{ post.date | date_to_string }}</time
-  >
-  {{ post.excerpt }}
-  <hr />
-  {% endif %} {% endfor %}
-</div> -->
-
-<!-- <div id="menu">
-  <a href="mailto:erwin@edegier.nl"
-    ><img class="menu-icon" src="img/email.svg"
-  /></a>
-  <a href="https://github.com/erwindeg"
-    ><img class="menu-icon" src="img/github.svg"
-  /></a>
-  <a href="https://nl.linkedin.com/in/erwindegier"
-    ><img class="menu-icon" src="img/linkedin.svg"
-  /></a>
-  <a href="http://stackoverflow.com/users/4685029/erwin-de-gier"
-    ><img class="menu-icon" src="img/stackoverflow.svg"
-  /></a>
-  <a href="https://twitter.com/erwindeg"
-    ><img class="menu-icon" src="img/twitter.svg"
-  /></a>
-</div> -->
+<hr />
