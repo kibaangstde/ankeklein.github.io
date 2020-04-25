@@ -25,6 +25,33 @@ title: Home
   </div>
 </div>
 
+<div class="posts-container">
+  <div class="row">
+    <div class="column">
+      <div class="article">
+        <div class="article-head">
+          <img src="{{ site.url }}{{site.posts[1].image}}" />
+        </div>
+        <div class="article-content">
+          <h2>{{site.posts[1].title}}</h2>
+          <p>{{ site.posts[1].excerpt }}</p>
+        </div>
+      </div>
+    </div>
+    <div class="column">
+      <div class="article">
+        <div class="article-head">
+          <img src="{{ site.url }}{{site.posts[2].image}}" />
+        </div>
+        <div class="article-content">
+          <h2>{{site.posts[2].title}}</h2>
+          <p>{{ site.posts[2].excerpt }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
 <!-- <div>
   {% for post in site.posts %} {% if forloop.index > 1 %}
   <h1 class="post-title">
