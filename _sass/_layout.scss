@@ -66,7 +66,7 @@ footer {
   color: #fff;
   left: 25%;
   right: 25%;
-  top: 25%;
+  top: 15%;
   // max-width: 60%;
   // margin-left: auto;
   // margin-right: auto;
@@ -139,28 +139,27 @@ a.feature-link:hover {
   z-index: -90;
 }
 
-//animation for text TODO:erwin
-// .movetxt {
-//   position: relative;
-//   -webkit-animation: fadein 2s, moving 2s;
-//   animation: fadein 2s, moving 2s;
-// }
+.movetxt {
+  position: absolute;
+  -webkit-animation: fadein 2s, moving 2s;
+  animation: fadein 2s, moving 2s;
+}
 
 @-webkit-keyframes moving {
   0% {
-    top: -50px;
+    top: 10%;
   }
   100% {
-    top: 0px;
+    top: 15%;
   }
 }
 
 @keyframes moving {
   0% {
-    top: -50px;
+    top: 10%;
   }
   100% {
-    top: 0px;
+    top: 15%;
   }
 }
 
