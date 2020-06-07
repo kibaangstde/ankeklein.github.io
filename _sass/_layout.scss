@@ -269,7 +269,17 @@ a.feature-link:hover {
   // }
 }
 
+.bottom-menu-item {
+  display: flex;
+}
+
 .bottom-menu-img {
   width: 40px;
   height: 40px;
+}
+
+.bottom-menu-content {
+  margin-left: 10px;
+  margin-top: 7px;
+  display: block;
 }
