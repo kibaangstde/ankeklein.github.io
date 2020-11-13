@@ -2,7 +2,7 @@
 permalink: pretty
 
 # Setup
-title: ANKE KLEIN
+title: Kenniscentrum Angst en Stress jeugd
 tagline:
 url: https://ankeklein.github.io
 paginate: 1
@@ -19,7 +19,7 @@ sass:
 author:
   name: Anke Klein
   url: http://ankeklein.nl
-  email: a.m.klein@fsw.leidenuniv.nl
+  email: kas@fsw.leidenuniv.nl
 
 # Custom vars
 version: 2.0.0
