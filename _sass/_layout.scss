@@ -205,6 +205,9 @@ a.feature-link:hover {
 .row {
   display: flex;
   flex-wrap: wrap;
+  @media (min-width: $large-breakpoint) {
+    flex-wrap: nowrap;
+  }
   flex: 0 1 auto;
   flex-direction: row;
   box-sizing: border-box;

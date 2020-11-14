@@ -1,7 +1,7 @@
 ---
 layout: post
 name: Anke Klein
-permalink: /team/ankeklein
+permalink: /team/anke
 image: /img/anke1.jpg
 ---
 
