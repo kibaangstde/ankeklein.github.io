@@ -1,0 +1,27 @@
+---
+layout: default
+title: Team
+---
+
+<div class="posts-container">
+  <div>
+    <h3>THE TEAM</h3>
+  </div>
+  <div class="row">
+    {% for staff_member in site.staff_members %}
+    <div class="column">
+      <div class="article">
+        <div class="article-head">
+          <img src="{{ site.url }}{{staff_member.image}}" />
+        </div>
+        <div class="article-content">
+          <h2>{{ staff_member.name }}</h2>
+          <p>{{ staff_member.content | markdownify }}</p>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+
+{% include bottom-menu.html %}

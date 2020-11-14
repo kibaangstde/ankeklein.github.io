@@ -24,9 +24,11 @@
   margin-left: auto;
   margin-top: 1.5rem;
   margin-bottom: 1.5rem;
-  max-width: 9rem;
+  // max-width: 9rem;
+  width: 69%;
   @media (min-width: $large-breakpoint) {
-    margin-left: 30%;
+    margin-left: 13%;
+    max-width: 9rem;
   }
 
   // margin-right: auto;
@@ -181,7 +183,7 @@ a.nav-link:visited {
   margin-left: auto;
   width: 78%;
   @media (min-width: $large-breakpoint) {
-    margin-left: 50%;
+    margin-left: 65%;
   }
 
   color: $black;
