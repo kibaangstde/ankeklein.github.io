@@ -21,8 +21,12 @@ h1 {
 }
 
 h2 {
-  margin-top: 1rem;
-  font-size: 1.5rem;
+  font-size: 1.1rem;
+  white-space: nowrap;
+  text-align: center;
+  @media (min-width: $large-breakpoint) {
+    font-size: 1.5rem;
+  }
 }
 
 h3 {
@@ -35,8 +39,26 @@ h3 {
   }
 }
 
-h4,
-h5,
+h3:after {
+  content: "";
+  width: 50px;
+  margin: 8px auto 20px;
+  height: 3px;
+  background: currentColor;
+  display: block;
+}
+
+h4 {
+  margin-top: 0rem;
+  font-size: 1rem;
+}
+
+h5 {
+  margin-top: -1rem;
+  font-size: 0.8rem;
+  color: #999;
+}
+
 h6 {
   margin-top: 1rem;
   font-size: 1rem;

@@ -197,6 +197,7 @@ a.feature-link:hover {
 
 .posts-container {
   max-width: 1000px;
+  padding-top: 60px;
   padding-left: 15px;
   padding-right: 15px;
   margin: 0 auto;
@@ -232,8 +233,14 @@ a.feature-link:hover {
 }
 
 .article-content {
-  padding: 15px 5px;
+  padding: 5px 5px;
   height: 50%;
+}
+
+.article-summary {
+  color: #999;
+  font-size: 0.9rem;
+  font-weight: 500;
 }
 
 .bottom-menu-container {

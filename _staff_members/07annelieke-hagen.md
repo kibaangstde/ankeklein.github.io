@@ -1,6 +1,9 @@
 ---
 layout: post
-name: Annelieke Hagen
+name: ANNELIEKE HAGEN
+title: Junior onderzoeker
+alumni: false
+summary: In Januari 2019 ben ik gestart met mijn joint PhD programma tussen de UvA en Macquarie University (Sydney, Australië)
 permalink: /team/annelieke
 image: /img/annelieke.png
 ---

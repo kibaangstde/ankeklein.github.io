@@ -1,6 +1,9 @@
 ---
 layout: post
-name: Rianne van Niekerk
+name: RIANNE VAN NIEKERK
+title: Alumnus
+alumni: true
+summary: In Januari 2019 ben ik gestart met mijn joint PhD programma tussen de UvA en Macquarie University (Sydney, Australië)
 permalink: /team/rianne
 image: /img/rianne.jpg
 ---

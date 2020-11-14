@@ -5,22 +5,80 @@ title: Team
 
 <div class="posts-container">
   <div>
-    <h3>Team</h3>
+    <h3>ONS TEAM</h3>
   </div>
+  <br />
+  <br />
   <div class="row">
-    {% for staff_member in site.staff_members %}
+    {% for staff_member in site.staff_members %} {% if forloop.index < 5 %} {%if
+    staff_member.alumni == false %}
     <div class="column">
       <div class="article">
         <div class="article-head">
           <img src="{{ site.url }}{{staff_member.image}}" />
         </div>
         <div class="article-content">
-          <h2>{{ staff_member.name }}</h2>
-          <p>{{ staff_member.content | markdownify }}</p>
+          <h4>{{ staff_member.name }}</h4>
+          <h5>{{ staff_member.title }}</h5>
+          <p class="article-summary">{{ staff_member.summary }}</p>
         </div>
       </div>
     </div>
-    {% endfor %}
+    {% endif %} {% endif %} {% endfor %}
+  </div>
+  <div class="row">
+    {% for staff_member in site.staff_members %} {% if forloop.index > 4 %} {%
+    if forloop.index < 9 %} {%if staff_member.alumni == false %}
+    <div class="column">
+      <div class="article">
+        <div class="article-head">
+          <img src="{{ site.url }}{{staff_member.image}}" />
+        </div>
+        <div class="article-content">
+          <h4>{{ staff_member.name }}</h4>
+          <h5>{{ staff_member.title }}</h5>
+          <p class="article-summary">{{ staff_member.summary }}</p>
+        </div>
+      </div>
+    </div>
+    {% endif %} {% endif %} {% endif %} {% endfor %}
+  </div>
+  <div class="row">
+    {% for staff_member in site.staff_members %} {% if forloop.index > 8 %} {%
+    if forloop.index < 13 %} {%if staff_member.alumni == false %}
+    <div class="column">
+      <div class="article">
+        <div class="article-head">
+          <img src="{{ site.url }}{{staff_member.image}}" />
+        </div>
+        <div class="article-content">
+          <h4>{{ staff_member.name }}</h4>
+          <h5>{{ staff_member.title }}</h5>
+          <p class="article-summary">{{ staff_member.summary }}</p>
+        </div>
+      </div>
+    </div>
+    {% endif %}{% endif %} {% endif %} {% endfor %}
+  </div>
+  <hr />
+  <div>
+    <h3>ASSOCIATE MEMBERS & ALUMNI</h3>
+  </div>
+  <div class="row">
+    {% for staff_member in site.staff_members %}{%if staff_member.alumni %}
+    <div class="column">
+      <div class="article">
+        <div class="article-head">
+          <img src="{{ site.url }}{{staff_member.image}}" />
+        </div>
+        <div class="article-content">
+          <h4>{{ staff_member.name }}</h4>
+          <h5>{{ staff_member.title }}</h5>
+          <p class="article-summary">{{ staff_member.summary }}</p>
+        </div>
+      </div>
+    </div>
+    {% endif %} {% endfor %}
   </div>
 </div>
 

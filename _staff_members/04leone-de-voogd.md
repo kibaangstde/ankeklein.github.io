@@ -1,6 +1,9 @@
 ---
 layout: post
-name: Leone de Voogd
+name: LEONE DE VOOGD
+title: Projectleider SPIL programma
+alumni: false
+summary: In Januari 2019 ben ik gestart met mijn joint PhD programma tussen de UvA en Macquarie University (Sydney, Australië)
 permalink: /team/leone
 image: /img/leone.jpg
 ---
