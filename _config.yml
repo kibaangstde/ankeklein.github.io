@@ -21,6 +21,9 @@ author:
   url: http://ankeklein.nl
   email: a.m.klein@fsw.leidenuniv.nl
 
+collections:
+  - staff_members
+
 # Custom vars
 version: 2.0.0
 github:

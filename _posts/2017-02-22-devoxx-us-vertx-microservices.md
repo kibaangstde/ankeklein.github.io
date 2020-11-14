@@ -4,7 +4,7 @@ title: Devoxx US 2017&#58; Reactive microservices with Vert.x 3.3
 comments: true
 permalink: /presentations/devoxx-us-vertx-microservices
 category: presentation
-image: /img/rome.jpg
+image: /img/desk.jpg
 ---
 
 Vert.x is the reactive programming toolkit for the JVM. It provides a full stack environment for building microservices environments, using different JVM languages like Java, Groovy, Ruby and JavaScript.
