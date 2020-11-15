@@ -3,7 +3,7 @@ layout: post
 title: Signalering Preventie Interventie bij Leerlingen met angst
 permalink: /projects/spil
 category: project
-image: /img/spil2.jpg
+image: /img/spil4.jpg
 ---
 
 <br>
