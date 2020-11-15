@@ -17,7 +17,6 @@
   left: 0;
   width: 100%;
   z-index: 99;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
 }
 
 .masthead-title {
@@ -46,6 +45,10 @@
     font-weight: 400;
     /*opacity: .5;*/
   }
+}
+
+.masthead-title img {
+  max-width: 270%;
 }
 
 //hamburger menu

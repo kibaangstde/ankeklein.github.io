@@ -1,9 +1,9 @@
 ---
 layout: post
-title: KIBA
+title: KInderen Bedwingen Angst
 permalink: /projects/kiba
 category: project
-image: /img/desk.jpg
+image: /img/kiba-logo.jpg
 ---
 
 <br>
