@@ -26,8 +26,11 @@ title: Home
 </div>
 
 <div class="posts-container">
-  <div class="row">
-    {% for post in site.posts %} {% if forloop.index > 1 %}
+  {% for post in site.posts %} 
+    {% assign remainder = forloop.index | modulo: 2 %}
+    {% if remainder == 1 %}
+    <div class="row">
+    {% endif %}
     <div class="column">
       <div class="article">
         <div class="article-head">
@@ -39,8 +42,10 @@ title: Home
         </div>
       </div>
     </div>
-    {% endif %} {% endfor %}
-  </div>
+    {% if remainder == 0 %}
+    </div>
+    {% endif %}
+  {% endfor %}
 </div>
 
 {% include bottom-menu.html %}
