@@ -25,6 +25,30 @@ title: Home
   </div>
 </div>
 
+
+<div class="posts-container">
+  {% for post in site.projects %}
+  {% assign remainder = forloop.index | modulo: 2 %}
+  {% if remainder == 1 %}
+  <div class="row">
+    {% endif %}
+    <div class="column">
+      <div class="article">
+        <div class="article-head">
+          <img src="{{ site.url }}{{post.image}}" />
+        </div>
+        <div class="article-content">
+          <h4>{{post.title}}</h4>
+          <p>{{ post.excerpt }}</p>
+        </div>
+      </div>
+    </div>
+    {% if remainder == 0 %}
+  </div>
+  {% endif %}
+  {% endfor %}
+</div>
+
 <div class="posts-container">
   {% for post in site.posts %} 
     {% assign remainder = forloop.index | modulo: 2 %}
@@ -34,7 +58,9 @@ title: Home
     <div class="column">
       <div class="article">
         <div class="article-head">
-          <img src="{{ site.url }}{{post.image}}" />
+            <a href="{{ site.baseurl }}{{ post.url }}">
+              <img src="{{ site.url }}{{post.image}}" />
+            </a>
         </div>
         <div class="article-content">
           <h4>{{post.title}}</h4>

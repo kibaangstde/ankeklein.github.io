@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teammember
 name: RIANNE VAN NIEKERK
 title: Alumnus
 alumni: true

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teammember
 name: LEONE DE VOOGD
 title: Projectleider SPIL programma
 alumni: false

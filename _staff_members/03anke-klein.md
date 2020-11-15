@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teammember
 name: ANKE KLEIN
 title: Hoofd expertise & onderzoek
 alumni: false

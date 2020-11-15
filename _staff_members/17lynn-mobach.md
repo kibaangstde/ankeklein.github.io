@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teammember
 name: LYNN MOBACH
 title: Alumnus
 alumni: true

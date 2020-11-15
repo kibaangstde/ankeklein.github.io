@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teammember
 name: RECEP UYSAL
 title: Post-doc
 alumni: false

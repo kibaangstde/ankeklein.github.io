@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teammember
 name: JOELLE VINK-VAN RIJN
 title: Onderzoeksassistent
 alumni: false

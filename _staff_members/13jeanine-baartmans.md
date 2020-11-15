@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teammember
 name: JEANINE BAARTMANS
 title: Junior onderzoeker
 alumni: true

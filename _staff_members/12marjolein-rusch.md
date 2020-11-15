@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teammember
 name: MARJOLEIN RUSCH
 title: Student
 alumni: false

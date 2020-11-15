@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teammember
 name: MICHIEL WESTENBERG
 title: Afdelingshoofd
 alumni: false

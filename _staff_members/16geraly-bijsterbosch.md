@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teammember
 name: GERALY BIJSTERBOSCH
 title: Alumnus
 alumni: true

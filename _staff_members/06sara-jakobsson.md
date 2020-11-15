@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teammember
 name: SARA JAKOBSSON
 title: Junior onderzoeker
 alumni: false

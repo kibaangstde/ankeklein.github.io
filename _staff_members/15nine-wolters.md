@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teammember
 name: NINE WOLTERS
 title: Alumnus
 alumni: true

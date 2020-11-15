@@ -15,4 +15,25 @@ Instead it is about how IT can be used as a differentiator to boost business gro
 - People and processes: Combining skills in a DevOps approach
 - Platform: how you deploy and operate will be different: OpenShift container management Platform
 
-<iframe class="centerembed" src="//www.slideshare.net/slideshow/embed_code/key/rQJ9RgAwcP4udz" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<hr />
+  <div>
+    <h3>PROJECTLEDEN</h3>
+  </div>
+  <div class="row">
+    {% for staff_member in site.staff_members %}
+    {%if staff_member.alumni %}
+    <div class="column">
+      <div class="article">
+        <div class="article-head">
+          <img src="{{ site.url }}{{staff_member.image}}" />
+        </div>
+        <div class="article-content">
+          <h4>{{ staff_member.name }}</h4>
+          <h5>{{ staff_member.title }}</h5>
+          <p class="article-summary">{{ staff_member.summary }}</p>
+        </div>
+      </div>
+    </div>
+    {% endif %}
+    {% endfor %}
+  </div>

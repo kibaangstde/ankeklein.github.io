@@ -22,7 +22,3 @@ We will explain the difference between Java 8 Streams, reactive streams and the 
 - Spring 5
 
 After this talk the attendee is completely up to date with Reactive in Java.
-
-[Download slides](presentations/reactive-java.pdf)
-
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/eqgz7v0fEa1Dqj" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>

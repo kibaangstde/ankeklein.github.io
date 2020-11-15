@@ -22,7 +22,10 @@ author:
   email: kas@fsw.leidenuniv.nl
 
 collections:
-  - staff_members
+  staff_members:
+    output: true
+  projects:
+    output: true
 
 # Custom vars
 version: 2.0.0

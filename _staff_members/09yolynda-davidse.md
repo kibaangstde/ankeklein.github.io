@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teammember
 name: YOLINDA DAVIDSE
 title: Student
 alumni: false
