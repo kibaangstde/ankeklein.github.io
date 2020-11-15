@@ -47,8 +47,11 @@
   }
 }
 
-.masthead-title img {
-  max-width: 270%;
+.masthead-logo {
+  max-width: 100%;
+  @media (min-width: $large-breakpoint) {
+    max-width: 270%;
+  }
 }
 
 //hamburger menu
