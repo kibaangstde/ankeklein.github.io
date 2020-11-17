@@ -3,7 +3,7 @@ layout: post
 title: In je SAS!
 permalink: /projects/sas
 category: project
-image:
+image: /img/kiba-logo.jpg
 members: [michiel, annelieke, sara]
 ---
 
