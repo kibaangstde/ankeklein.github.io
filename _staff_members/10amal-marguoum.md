@@ -1,4 +1,5 @@
 ---
+nameid: amal
 layout: teammember
 name: AMAL MARGUOUM
 title: Student
