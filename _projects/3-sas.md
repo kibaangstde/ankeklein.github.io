@@ -1,6 +1,7 @@
 ---
 layout: post
 title: In je SAS!
+summary: Samenvatting van dit project
 permalink: /projects/sas
 category: project
 image: /img/kiba-logo.jpg
@@ -27,4 +28,3 @@ And the following frameworks:
 - Akka
 
 <br>
-

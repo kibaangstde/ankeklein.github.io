@@ -1,6 +1,7 @@
 ---
 layout: post
 title: KInderen Bedwingen Angst
+summary: Samenvatting van dit project
 permalink: /projects/kiba
 category: project
 image: /img/kiba-logo.jpg
