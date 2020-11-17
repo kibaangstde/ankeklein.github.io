@@ -1,7 +1,7 @@
 ---
 nameid: recep
 layout: teammember
-name: RECEP UYSAL
+name: DR. RECEP UYSAL
 title: Post-doc
 alumni: false
 summary: In Januari 2019 ben ik gestart met mijn joint PhD programma tussen de UvA en Macquarie University (Sydney, Australië)
