@@ -234,6 +234,13 @@ a.feature-link:hover {
   height: 90%;
 }
 
+.article-bottom {
+  margin-bottom: 50px;
+  border-radius: 0 0 3px 3px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);
+  max-width: 200px;
+}
+
 .article-content {
   padding: 5px 5px;
   height: 50%;

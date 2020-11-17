@@ -4,6 +4,7 @@ title: KInderen Bedwingen Angst
 permalink: /projects/kiba
 category: project
 image: /img/kiba-logo.jpg
+members: [michiel, leone]
 ---
 
 <br>
@@ -26,5 +27,3 @@ And the following frameworks:
 - Akka
 
 <br>
-
-<img src="{{ site.url }}/img/02.jpg">
