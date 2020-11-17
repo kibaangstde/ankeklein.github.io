@@ -1,10 +1,10 @@
 ---
 nameid: anke
 layout: teammember
-name: ANKE KLEIN
-title: Hoofd expertise & onderzoek
+name: DR. ANKE KLEIN
+title: Hoofd onderzoek & onderwijs
 alumni: false
-summary: In Januari 2019 ben ik gestart met mijn joint PhD programma tussen de UvA en Macquarie University (Sydney, Australië)
+summary: Anke is kinderpsycholoog en orthopegagoog en is daarnaast werkzaam als universitsir docent bij de afdeling ontwikkelings- en onderwijspsychologie van de universiteit Leiden.
 permalink: /team/anke
 image: /img/anke2.jpg
 ---

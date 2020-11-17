@@ -1,7 +1,7 @@
 ---
 nameid: anika
 layout: teammember
-name: ANIKA BEXKENS
+name: DR. ANIKA BEXKENS
 title: Hoofd zorg
 alumni: false
 summary: In Januari 2019 ben ik gestart met mijn joint PhD programma tussen de UvA en Macquarie University (Sydney, Australië)
