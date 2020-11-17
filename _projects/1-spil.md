@@ -8,7 +8,7 @@ members: [leone, michiel, anika, anke]
 ---
 
 <br>
-# Achtergrond
+#Achtergrond    
 Everything is reactive. Your application reacts to the click of a button, an incoming message. But also to the result of a database query. Between these events, you want to process other tasks.
 
 Being reactive needs a complete approach.
