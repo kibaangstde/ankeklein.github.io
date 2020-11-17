@@ -2,7 +2,7 @@
 nameid: annelieke
 layout: teammember
 name: ANNELIEKE HAGEN
-title: Junior onderzoeker
+title: Coordinator KIBA project
 alumni: false
 summary: In Januari 2019 ben ik gestart met mijn joint PhD programma tussen de UvA en Macquarie University (Sydney, Australië)
 permalink: /team/annelieke
