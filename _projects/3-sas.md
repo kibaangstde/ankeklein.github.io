@@ -4,7 +4,7 @@ title: In je SAS!
 permalink: /projects/sas
 category: project
 image: /img/kiba-logo.jpg
-members: [michiel, annelieke, sara]
+members: [michiel, sara]
 ---
 
 <br>
