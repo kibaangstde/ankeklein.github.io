@@ -4,7 +4,7 @@ title: Signalering Preventie Interventie bij Leerlingen met angst
 permalink: /projects/spil
 category: project
 image: /img/spil4.jpg
-members: [anke, anika, leone, michiel, annelieke, sara, marjolein]
+members: [leone, michiel, anika]
 ---
 
 <br>
