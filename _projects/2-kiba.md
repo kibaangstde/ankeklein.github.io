@@ -4,7 +4,7 @@ title: KInderen Bedwingen Angst
 permalink: /projects/kiba
 category: project
 image: /img/kiba-logo.jpg
-members: [michiel, leone]
+members: [michiel, anke, annelieke, amal, yolinda, recep, anika, fabienne]
 ---
 
 <br>
