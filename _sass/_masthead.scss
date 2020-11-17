@@ -47,8 +47,20 @@
   }
 }
 
+.masthead-title-left {
+  margin-top: 1%;
+  float: left;
+  margin-left: 15%;
+}
+
+.masthead-title-right {
+  margin-top: 1%;
+  float: right;
+  margin-right: 15%;
+}
+
 .masthead-logo {
-  max-width: 30%;
+  max-width: 301%;
   @media (min-width: $large-breakpoint) {
     max-width: 270%;
   }
