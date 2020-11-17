@@ -24,11 +24,11 @@
   margin-left: auto;
   margin-top: 1.5rem;
   margin-bottom: 1.5rem;
-  // max-width: 9rem;
+  max-width: 9rem;
   width: 95%;
   @media (min-width: $large-breakpoint) {
     margin-left: 13%;
-    max-width: 9rem;
+    max-width: 20rem;
   }
 
   // margin-right: auto;
@@ -50,7 +50,7 @@
 .masthead-title-left {
   margin-top: 1%;
   float: left;
-  margin-left: 10%;
+  margin-left: 15%;
 }
 
 .masthead-title-right {
@@ -185,19 +185,18 @@ a.nav-link:visited {
 }
 
 .menu {
-  // float: left;
-  margin-top: 3.5rem;
-  // margin-top: -2rem;
-  // @media (min-width: $large-breakpoint) {
-  //   margin-top: -4rem;
-  // }
+  margin-bottom: 1.5rem;
+  margin-top: -2rem;
+  @media (min-width: $large-breakpoint) {
+    margin-top: -4rem;
+  }
 
   margin-right: auto;
   margin-left: auto;
-  width: 16%;
-  // @media (min-width: $large-breakpoint) {
-  //   margin-left: 65%;
-  // }
+  width: 70%;
+  @media (min-width: $large-breakpoint) {
+    margin-left: 65%;
+  }
 
   color: $black;
 
@@ -211,6 +210,11 @@ a.nav-link:visited {
     font-weight: 400;
     /*opacity: .5;*/
   }
+
+  // padding: 0;
+  // margin: 0;
+  // width: 600px;
+  // float: left;
 }
 
 .menu ul {
