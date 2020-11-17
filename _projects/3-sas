@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Signalering Preventie Interventie bij Leerlingen met angst
-permalink: /projects/spil
+title: In je SAS!
+permalink: /projects/sas
 category: project
-image: /img/spil4.jpg
-members: [anke, anika, leone, michiel, annelieke, sara, marjolein]
+image:
+members: [michiel, annelieke, sara]
 ---
 
 <br>
