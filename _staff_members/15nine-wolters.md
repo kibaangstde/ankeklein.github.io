@@ -1,7 +1,8 @@
 ---
+nameid: nine
 layout: teammember
 name: NINE WOLTERS
-title: Alumnus
+title: junior onderzoeker
 alumni: true
 summary: In Januari 2019 ben ik gestart met mijn joint PhD programma tussen de UvA en Macquarie University (Sydney, Australië)
 permalink: /team/nine
