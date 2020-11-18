@@ -2,7 +2,7 @@
 nameid: sara
 layout: teammember
 name: SARA JAKOBSSON
-title: Junior onderzoeker
+title: Coordinator In je SAS!
 alumni: false
 summary: In Januari 2019 ben ik gestart met mijn joint PhD programma tussen de UvA en Macquarie University (Sydney, Australië)
 permalink: /team/sara
