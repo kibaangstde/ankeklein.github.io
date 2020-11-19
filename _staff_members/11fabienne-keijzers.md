@@ -4,7 +4,7 @@ layout: teammember
 name: FABIENNE KEIJZERS
 title: Student
 alumni: false
-summary: Fabienne Keijzers is student aan de Universiteit Leiden. In september 2020 is ze met de master school psychologie begonnen.
+summary: Fabienne Mastestudent school psychologie aan de Universiteit Leiden. 
 permalink: /team/fabienne
 image: /img/fabienne.jpg
 ---
