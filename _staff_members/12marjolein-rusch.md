@@ -4,7 +4,7 @@ layout: teammember
 name: MARJOLEIN RUSCH
 title: Student
 alumni: false
-summary: Marjolein Rusch is masterstudent kind- en jeugd psychologie.
+summary: Marjolein is masterstudent kind- en jeugd psychologie.
 permalink: /team/marjolein
 image: /img/marjolein.jpg
 ---
