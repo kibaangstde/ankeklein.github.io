@@ -5,7 +5,7 @@ summary: Samenvatting van dit project
 permalink: /projects/kiba
 category: project
 image: /img/kiba-logo.jpg
-members: [michiel, anke, annelieke, recep, Yolinda, Amal, Fabienne]
+members: [michiel, anke, annelieke, recep, yolinda, amal, fabienne]
 ---
 
 <br>
