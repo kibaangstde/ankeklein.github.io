@@ -4,7 +4,7 @@ title: Corona en angst
 summary: Heb je ook last van een specifiek angst, bijvoorbeeld een angst voor hongen, hoogtes, injecties, onweer, het donker, spinnen of andere dieren? Dan is de KIBA training misschien wel iets voor jou!
 permalink: /projects/corona
 category: project
-image: /img/kiba-logo2.jpg
+image: /img/corona.jpg
 members: [michiel, anke, anika]
 ---
 
