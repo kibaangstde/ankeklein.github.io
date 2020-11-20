@@ -9,7 +9,7 @@ permalink: /team/anke
 image: /img/anke2.jpg
 ---
 
-### Kort cv
+#### Kort cv
 Anke Klein is universitair docent bij de afdeling Ontwikkelings-en-Onderwijspsychologie van het Instituut Psychologie aan de Universiteit Leiden.
 
 Ze combineerde de studies Pedagogische Wetenschappen en Psychologie en behaalde drie Master titels in de Klinische Orthopedagogiek, Ontwikkelingspsychologie en een tweejarige Research Master bij de Radboud Universiteit. Ze behaalde haar PhD, Cum Laude, over angst bij kinderen aan dezelfde universiteit (Promotoren: Prof. Mike Rinck, Prof. Eni Becker, Prof Susan Bögels). Tijdens haar PhD project werkte ze intensief samen met Prof. Ron Rapee en Prof. Jennifer Hudson en hun groep. Ze werkte een deel van haar tijd in hun lab in het Centre for Emotional Health, Macquarie University, Sydney, Australië.
@@ -17,7 +17,7 @@ Na haar promotie werkte ze als postdoc aan de Universiteit van Amsterdam waar ze
 
 
 
-### Beurzen
+#### Beurzen
 Anke heeft verschillende beurzen ontvangen met een totale waarde van meer dan 3.2M euro:
 
 - 2020 IIE Scholar Rescue Fund toegekend aan Dr. Uysal (Supervisor)
@@ -40,7 +40,7 @@ Anke heeft verschillende beurzen ontvangen met een totale waarde van meer dan 3.
 - 2008, 2012, 2014 Erasmus Mundus Travel Fellowships (PI)
 
 
-### Begeleiding promovendi
+#### Begeleiding promovendi
 - A. Hagen De combinatie van een-sessie behandeling met een app voor het behandelen van kinderen met een specifieke fobie, 2019 - nu
 - N. Wolters Sociale relaties, eenzaamheid, angst en depressie over de gehele levensloop, 2018 - nu
 - J. Baartmans De rol van klasgenoten en ouders bij kinderen met sociale angst, 2018 - nu
@@ -48,17 +48,17 @@ Anke heeft verschillende beurzen ontvangen met een totale waarde van meer dan 3.
 - R. van Niekerk De rol van ouderlijke angst in de overdracht van angst bij kinderen (afgerond)
 
 
-### Registraties
+#### Registraties
 - Basis kwalificatie Onderwijs (BKO)
 - BAPD kwalificatie, Nederlands Instituut voor Psychologen
 - NVO kwalificatie, Nederlandse Vereniging voor Orthopedagogen
 - EBL Creatieve therapie behandeling A, B en C certificaten
 
-### Contact
+#### Contact
 a.m.klein@fsw.leidenuniv.nl
 +31 71 527 6673
 
-### links
+#### links
 https://www.universiteitleiden.nl/medewerkers/anke-klein#tab-2
 
 https://www.linkedin.com/in/ankeklein/?originalSubdomain=nl
