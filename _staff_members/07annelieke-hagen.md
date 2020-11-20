@@ -9,4 +9,4 @@ permalink: /team/annelieke
 image: /img/annelieke.png
 ---
 
-Anke Klein is universitair docent bij de afdeling Ontwikkelings-en-Onderwijspsychologie van het Instituut Psychologie aan de Universiteit Leiden.
+Annelieke is coordinator op het KIBA project. Daarnaast is ze junior onderzoeker op het gebied van specifieke angsten bij de afdeling Ontwikkelings- en Onderwijspsychologie van de Universiteit Leiden.
