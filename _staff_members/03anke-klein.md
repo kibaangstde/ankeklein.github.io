@@ -4,7 +4,7 @@ layout: teammember
 name: DR. ANKE KLEIN
 title: Hoofd onderzoek & onderwijs
 alumni: false
-summary: Anke is kinderpsycholoog en orthopegagoog en is daarnaast werkzaam als universitair docent bij de afdeling ontwikkelings- en onderwijspsychologie van de universiteit Leiden.
+summary: Anika is kindpsychologe en orthopedage en hoofdverantwoordelijk voor onderzoek en onderwijs binnen het kenniscentrum. Daarnaast is ze universitair docent bij de afdeling Ontwikkelings- en Onderwijspychologie aan de universiteit Leiden.
 permalink: /team/anke
 image: /img/anke2.jpg
 ---
