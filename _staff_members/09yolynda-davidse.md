@@ -4,9 +4,15 @@ layout: teammember
 name: YOLINDA DAVIDSE
 title: Student
 alumni: false
-summary: In Januari 2019 ben ik gestart met mijn joint PhD programma tussen de UvA en Macquarie University (Sydney, Australië)
+summary: Yolinda is mastestudent bij de opleiding school psychologie aan de Universiteit Leiden.
 permalink: /team/yolinda
 image: /img/yolinda.jpg
 ---
 
-Anke Klein is universitair docent bij de afdeling Ontwikkelings-en-Onderwijspsychologie van het Instituut Psychologie aan de Universiteit Leiden.
+Yolinda Davidse is een masterstudent aan de Universiteit van Leiden en volgt daar de opleiding School Psychology. Ze heeft affiniteit met het werken met kinderen en zou graag na haar opleiding aan de slag willen als schoolpsycholoog, waarmee ze een brug wil vormen tussen het onderwijs en de mentale gezondheidszorg. Yolinda is als masterstudent aangesloten bij KIBA en helpt hierbij met het opzetten en uitvoeren van het project. Tijdens haar master heeft ze al eerder labonderzoek gedaan bij jongvolwassenen en heeft ze stage gelopen bij KleuterExtra, een initiatief dat kleuters een extra steuntje in de rug geeft bij moeilijkheden.
+Voorheen heeft ze op de Universiteit van Leiden ook haar Bacheloropleiding Psychologie afgerond. Voor haar Bachelor thesis heeft ze onderzoek gedaan op meerdere basisscholen in de regio Zuid-Holland, waarbij ze klassikaal taakjes heeft afgenomen in groep 5 tot en met 8. 
+
+https://www.facebook.com/yolinda.davidse
+https://www.instagram.com/yolindadavidse/
+
+Contact: y.b.davidse@umail.leidenuniv.nl
