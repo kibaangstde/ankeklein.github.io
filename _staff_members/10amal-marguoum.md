@@ -15,4 +15,5 @@ Ik schrijf mijn thesis onder begeleiding van Anke Klein en ik werk samen met haa
 Ik zal sociale angst bij niet-westerse jongeren onderzoeken met discriminatie als risicofactor en op welke manier dit geuit wordt bij deze doelgroep. 
 
 LinkedIn: linkedin.com/in/amal-marguoum-63bb63116 
+
 E-mailadres: a.marguoum@umail.leidenuniv.nl 
