@@ -4,7 +4,7 @@ layout: teammember
 name: FABIENNE KEIJZERS
 title: Stagiaire KIBA
 alumni: false
-summary: Fabienne is Masterstudent school psychologie aan de Universiteit Leiden en loopt stage bij KIBA.
+summary: Fabienne is Masterstudent school psychologie aan de Universiteit Leiden en loopt stage bij het KIBA project.
 permalink: /team/fabienne
 image: /img/fabienne.jpg
 ---
