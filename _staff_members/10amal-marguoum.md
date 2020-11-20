@@ -4,7 +4,7 @@ layout: teammember
 name: AMAL MARGUOUM
 title: Stagiaire KIBA
 alumni: false
-summary: In Januari 2019 ben ik gestart met mijn joint PhD programma tussen de UvA en Macquarie University (Sydney, Australië)
+summary: Amal is masterstudent bij de opleiding kind- en jeugdpsychologie aan de Universiteit Leiden en loopt stage bij het KIBA project.
 permalink: /team/amal
 image: /img/amal.jpg
 ---
