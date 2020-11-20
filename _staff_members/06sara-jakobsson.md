@@ -4,7 +4,7 @@ layout: teammember
 name: SARA JAKOBSSON
 title: Coordinator In je SAS!
 alumni: false
-summary: In Januari 2019 ben ik gestart met mijn joint PhD programma tussen de UvA en Macquarie University (Sydney, Australië)
+summary: Sara is coodinator van het project In je SAS! Daarnaast is ze junior onderzoeker op het gebied van sociale angst bij de afdeling Ontwikkelings- en Onderwijspsychologie van de Universiteit Leiden. 
 permalink: /team/sara
 image: /img/sara.jpg
 ---
