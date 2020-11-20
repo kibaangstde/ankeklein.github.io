@@ -1,7 +1,7 @@
 ---
 layout: post
 title: In je SAS!
-summary: Samenvatting van dit project
+summary: Zie je soms ook zo op tegen het geven van een spreekbeurt, of vind je het lastig om vragen te stellen in de klas of the beantwoorden, misschien is de training In je SAS! wel iets voor jou!
 permalink: /projects/sas
 category: project
 image: /img/kiba-logo.jpg
