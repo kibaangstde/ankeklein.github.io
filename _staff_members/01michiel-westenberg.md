@@ -1,7 +1,7 @@
 ---
 nameid: michiel
 layout: teammember
-name: PROF. MICHIEL WESTENBERG
+name: PROF MICHIEL WESTENBERG
 title: Afdelingshoofd
 alumni: false
 summary: In Januari 2019 ben ik gestart met mijn joint PhD programma tussen de UvA en Macquarie University (Sydney, Australië)
