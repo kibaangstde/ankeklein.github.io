@@ -4,7 +4,7 @@ layout: teammember
 name: DR. ANIKA BEXKENS
 title: Hoofd zorg
 alumni: false
-summary: In Januari 2019 ben ik gestart met mijn joint PhD programma tussen de UvA en Macquarie University (Sydney, Australië)
+summary: Anika is Klinisch Psycholoog en hoofdverantwoordelijk voor alle zorg binnen het kenniscentrum. Daarnaast is ze universitair docent bij de afdeling Ontwikkelings- en Onderwijspychologie aan de universiteit Leiden. 
 permalink: /team/anika
 image: /img/anika.jpg
 ---
