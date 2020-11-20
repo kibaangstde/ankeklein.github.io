@@ -2,9 +2,9 @@
 nameid: marjolein
 layout: teammember
 name: MARJOLEIN RUSCH
-title: Master student
+title: Stagiaire SPIL
 alumni: false
-summary: Marjolein is masterstudent kind- en jeugd psychologie aan de Universiteit Leiden.
+summary: Marjolein is masterstudent kind- en jeugd psychologie aan de Universiteit Leiden en loopt stage bij het SPIL programma
 permalink: /team/marjolein
 image: /img/marjolein.jpg
 ---
