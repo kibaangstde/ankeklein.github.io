@@ -4,9 +4,8 @@ layout: teammember
 name: RIANNE VAN NIEKERK
 title: Alumnus
 alumni: true
-summary: In Januari 2019 ben ik gestart met mijn joint PhD programma tussen de UvA en Macquarie University (Sydney, Australië)
+summary: Rianne promoveerde in 2018 op het gebied van angst bij kinderen aan de Radboud Universiteit onder dagelijkse begeleiding van Anke.
 permalink: /team/rianne
 image: /img/rianne.jpg
 ---
 
-Anke Klein is universitair docent bij de afdeling Ontwikkelings-en-Onderwijspsychologie van het Instituut Psychologie aan de Universiteit Leiden.
