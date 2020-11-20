@@ -2,9 +2,9 @@
 nameid: jeanine
 layout: teammember
 name: JEANINE BAARTMANS
-title: onderzoeker
+title: Alumnus
 alumni: true
-summary: In Januari 2019 ben ik gestart met mijn joint PhD programma tussen de UvA en Macquarie University (Sydney, Australië)
+summary: Jeanine deed haar promotieonderzoek bij de Universiteit van Amsterdam en UvAminds onder dagelijkse begeleiding van Anke.
 permalink: /team/jeanine
 image: /img/jeanine.jpg
 ---
