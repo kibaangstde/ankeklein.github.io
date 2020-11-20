@@ -2,7 +2,7 @@
 nameid: fabienne
 layout: teammember
 name: FABIENNE KEIJZERS
-title: Stagiaire
+title: Stagiaire KIBA
 alumni: false
 summary: Fabienne is Mastestudent school psychologie aan de Universiteit Leiden. 
 permalink: /team/fabienne
