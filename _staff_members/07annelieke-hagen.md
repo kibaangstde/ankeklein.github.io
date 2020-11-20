@@ -4,7 +4,7 @@ layout: teammember
 name: ANNELIEKE HAGEN
 title: Coordinator KIBA project
 alumni: false
-summary: In Januari 2019 ben ik gestart met mijn joint PhD programma tussen de UvA en Macquarie University (Sydney, Australië)
+summary: Annelieke is coordinator op het KIBA project. Daarnaast is ze junior onderzoeker op het gebied van specifieke angsten bij de afdeling Ontwikkelings- en Onderwijspsychologie van de Universiteit Leiden.
 permalink: /team/annelieke
 image: /img/annelieke.png
 ---
