@@ -2,11 +2,11 @@
 nameid: joelle
 layout: teammember
 name: JOELLE VINK-VAN RIJN
-title: Onderzoeksassistent
+title: trainer
 alumni: false
-summary: In Januari 2019 ben ik gestart met mijn joint PhD programma tussen de UvA en Macquarie University (Sydney, Australië)
+summary: Joelle is kinder- en jeugdpsychologe en werkt als trainer bij het poject In je SAS!
 permalink: /team/joelle
 image: /img/joelle.jpg
 ---
 
-Anke Klein is universitair docent bij de afdeling Ontwikkelings-en-Onderwijspsychologie van het Instituut Psychologie aan de Universiteit Leiden.
+Joelle is kinder- en jeugdpsychologe en werkt als trainer bij het poject In je SAS!
