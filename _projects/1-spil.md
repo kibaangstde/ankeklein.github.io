@@ -11,10 +11,12 @@ members: [leone, michiel, anika, anke, marjolein]
 <br>
 Doet u ook mee met het SPIL-programma? Scholen, leraren en zorgmedewerkers die met ons mee willen denken of doen zijn van harte welkom!
 
+
 #### Waarom dit project?
 Stress- en angstklachten zijn wereldwijd de meest voorkomende mentale problemen en ontstaan vaak al in de kindertijd. Deze klachten gaan meestal niet vanzelf over en kunnen onbehandeld leiden tot eenzaamheid, andere psychische stoornissen, middelmisbruik, sociale problemen, verslechterde schoolprestaties of schooluitval.
 
 Stress- en angstklachten worden vaak niet tijdig herkend, omdat ze zich uiten in teruggetrokken gedrag, of juist in andere gedragsproblemen of schoolweigering, waarbij niet altijd aan onderliggende angsten gedacht wordt. Wanneer jeugdigen pas hulp krijgen op het moment dat klachten escaleren, is vaak een langdurig en kostbaar behandeltraject nodig, waarvoor bovendien lange wachtlijsten zijn.
+
 
 #### Wat gaan we doen?
 Het doel van dit project is om in nauwe samenwerking met Leidse scholen stress- en angstklachten bij kinderen en jongeren vroegtijdig op te sporen en te verhelpen. Hiermee willen we een veilig leerklimaat en gezonde sociaal-emotionele ontwikkeling stimuleren en schooluitval voorkomen.
@@ -26,6 +28,7 @@ We ontwikkelen workshops en een telefonische hulplijn voor leraren en zorgmedewe
 Het project is nog volop in ontwikkeling, dus gedurende de looptijd (2020-2022) zult u op deze website meer informatie vinden. Wilt u met ons meedenken? Neem dan vooral contact op!
 
 Lees hier meer praktische informatie over deelname aan ons project.
+
 
 #### Wie zijn wij?
 Dit project wordt uitgevoerd door de Universiteit Leiden in samenwerking met het Stedelijk Gymnasium Leiden en andere scholen in de Leidse regio. Voor dit project ontvangen we een onderwijsinnovatiesubsidie van de gemeente Leiden.
