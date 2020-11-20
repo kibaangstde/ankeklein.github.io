@@ -17,6 +17,7 @@ Na haar promotie werkte ze als postdoc aan de Universiteit van Amsterdam waar ze
 
 
 
+
 #### Beurzen
 Anke heeft verschillende beurzen ontvangen met een totale waarde van meer dan 3.2M euro:
 
@@ -40,6 +41,8 @@ Anke heeft verschillende beurzen ontvangen met een totale waarde van meer dan 3.
 - 2008, 2012, 2014 Erasmus Mundus Travel Fellowships (PI)
 
 
+
+
 #### Begeleiding promovendi
 - A. Hagen De combinatie van een-sessie behandeling met een app voor het behandelen van kinderen met een specifieke fobie, 2019 - nu
 - N. Wolters Sociale relaties, eenzaamheid, angst en depressie over de gehele levensloop, 2018 - nu
@@ -48,15 +51,22 @@ Anke heeft verschillende beurzen ontvangen met een totale waarde van meer dan 3.
 - R. van Niekerk De rol van ouderlijke angst in de overdracht van angst bij kinderen (afgerond)
 
 
+
+
 #### Registraties
 - Basis kwalificatie Onderwijs (BKO)
 - BAPD kwalificatie, Nederlands Instituut voor Psychologen
 - NVO kwalificatie, Nederlandse Vereniging voor Orthopedagogen
 - EBL Creatieve therapie behandeling A, B en C certificaten
 
+
+
 #### Contact
-a.m.klein@fsw.leidenuniv.nl
-+31 71 527 6673
+email: a.m.klein@fsw.leidenuniv.nl 
+
+tel: +31 71 527 6673
+
+
 
 #### links
 https://www.universiteitleiden.nl/medewerkers/anke-klein#tab-2
