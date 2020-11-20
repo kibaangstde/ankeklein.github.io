@@ -4,7 +4,7 @@ layout: teammember
 name: DR. LEONE DE VOOGD
 title: Projectleider SPIL programma
 alumni: false
-summary: In Januari 2019 ben ik gestart met mijn joint PhD programma tussen de UvA en Macquarie University (Sydney, Australië)
+summary: Leone is psychologe en promoveerde op het gebied van angst en heeft veel affiniteit met het onderwijs. Ze is dagelijks projectleider van het SPIL programma.
 permalink: /team/leone
 image: /img/leone.jpg
 ---
