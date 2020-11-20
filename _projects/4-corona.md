@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Corona en angst
-summary: Heb je ook last van een specifiek angst, bijvoorbeeld een angst voor hongen, hoogtes, injecties, onweer, het donker, spinnen of andere dieren? Dan is de KIBA training misschien wel iets voor jou!
+title: Corona en angst bij kinderen
+summary: Wat is Corona? Is Corona gevaarlijk? Kinderen hebben in deze tijd ook vragen en zorgen rondom Corona. Vind hier filmpjes en betrouwbare informatie speciaal voor kinderen.
 permalink: /projects/corona
 category: project
 image: /img/corona.jpg
