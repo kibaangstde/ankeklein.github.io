@@ -5,7 +5,7 @@ summary: Samenvatting van dit project
 permalink: /projects/sas
 category: project
 image: /img/kiba-logo.jpg
-members: [michiel, sara]
+members: [michiel, sara, Joelle]
 ---
 
 <br>
