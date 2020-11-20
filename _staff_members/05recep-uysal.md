@@ -4,9 +4,9 @@ layout: teammember
 name: DR. RECEP UYSAL
 title: Post-doc
 alumni: false
-summary: In Januari 2019 ben ik gestart met mijn joint PhD programma tussen de UvA en Macquarie University (Sydney, Australië)
+summary: Recep is psycholoog en promoveerde op het gebied van de positieve psychologie. Hij werkt als senior onderzoeker bij het KIBA project.
 permalink: /team/recep
 image: /img/recep.jpg
 ---
 
-Anke Klein is universitair docent bij de afdeling Ontwikkelings-en-Onderwijspsychologie van het Instituut Psychologie aan de Universiteit Leiden.
+Recep is psycholoog en promoveerde op het gebied van de positieve psychologie. Hij werkt als senior onderzoeker bij het KIBA project.
