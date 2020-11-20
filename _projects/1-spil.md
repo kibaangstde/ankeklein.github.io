@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Signalering Preventie Interventie bij Leerlingen met angst
-summary: Samenvatting van dit project
+summary: Doet u ook mee met het SPIL-programma? Scholen, leraren en zorgmedewerkers die met ons mee willen denken of doen zijn van harte welkom!
 permalink: /projects/spil
 category: project
 image: /img/spil4.jpg
