@@ -1,12 +1,11 @@
 ---
-nameid: joelle
+nameid: Joelle
 layout: teammember
 name: JOELLE VINK-VAN RIJN
-title: trainer
-alumni: false
-summary: Joelle is kinder- en jeugdpsychologe en werkt als trainer bij het poject In je SAS!
+title: Alumnus
+alumni: true
+summary: Joelle was trainer bij het project in je SAS!
 permalink: /team/joelle
 image: /img/joelle.jpg
 ---
 
-Joelle is kinder- en jeugdpsychologe en werkt als trainer bij het poject In je SAS!
