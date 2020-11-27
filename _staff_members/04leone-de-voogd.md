@@ -2,7 +2,7 @@
 nameid: leone
 layout: teammember
 name: DR. LEONE DE VOOGD
-title: Dagelijk projectleider SPIL 
+title: Dagelijks projectleider SPIL 
 alumni: false
 summary: Leone is dagelijks projectleider op het SPIL programma en werkt als docent bij de afdeling Ontwikkelings- en Onderwijspsychologie aan de Universiteit Leiden. Ze promoveerde op een onderzoek naar angst en depressie bij jongeren en probeert bruggen te slaan tussen onderwijs, zorg, wetenschap en beleid. 
 permalink: /team/leone
