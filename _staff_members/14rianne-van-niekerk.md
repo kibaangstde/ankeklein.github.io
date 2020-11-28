@@ -13,3 +13,4 @@ Rianne promoveerde in 2018 op het gebied van angst bij kinderen aan de Radboud U
 
 https://www.linkedin.com/in/rianne-van-niekerk-22776352/?originalSubdomain=nl
 https://www.researchgate.net/scientific-contributions/Rianne-E-van-Niekerk-2111915170
+https://nijcare.nl/persoonproduct/publicaties-rianne-van-niekerk-msc
