@@ -2,9 +2,9 @@
 nameid: Stephanie
 layout: teammember
 name: Bakker
-title: Alumnus
+title: Conrector
 group: collaborator
-summary: Joelle was trainer bij het project in je SAS! Op dit moment werkt ze als zorgcoördinator en psycholoog bij Inzowijs.
-permalink: /team/joelle
-image: /img/joelle.jpg
+summary: Stephanie is concrector educatation en care bij het Stedelijk Gymnasium Leiden. Ze werkt samen met het KAS team op het SPIL programma 
+permalink: /team/stephanie
+image: /img/stephanie.jpg
 ---
