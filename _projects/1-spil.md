@@ -15,12 +15,16 @@ Signalering, Preventie & Interventie bij Leerlingen met angst
 
 Doet u ook mee met het SPIL-programma? Scholen, leraren en zorgmedewerkers die met ons mee willen denken of doen zijn van harte welkom!
 
+<br>
+
 #### Achtergrond
 Stress- en angstklachten zijn wereldwijd de meest voorkomende mentale problemen en ontstaan vaak al in de kindertijd. Deze klachten gaan meestal niet vanzelf over en kunnen onbehandeld leiden tot eenzaamheid, andere psychische stoornissen, middelmisbruik, sociale problemen, verslechterde schoolprestaties of schooluitval.
 
 Stress- en angstklachten worden vaak niet tijdig herkend, omdat ze zich uiten in teruggetrokken gedrag, of juist in andere gedragsproblemen of schoolweigering, waarbij niet altijd aan onderliggende angsten gedacht wordt. Wanneer jeugdigen pas hulp krijgen op het moment dat klachten escaleren, is vaak een langdurig en kostbaar behandeltraject nodig, waarvoor bovendien lange wachtlijsten zijn.
 
 Leerlingen met stress- en angstklachten worden hierdoor gehinderd in hun ontwikkeling, zowel binnen als buiten de school. Leraren en zorgmedewerkers willen hen graag ondersteunen, maar missen soms de tijd, ruimte, kennis en vaardigheden om op tijd signalen op te pikken en hier goed mee om te gaan.   
+
+<br>
 
 #### Doel 
 Het doel van het SPIL-programma is om in nauwe samenwerking met Leidse scholen stress- en angstklachten bij kinderen en jongeren vroegtijdig op te sporen en te verhelpen. Hiermee willen we een veilig leerklimaat en gezonde sociaal-emotionele ontwikkeling stimuleren en schooluitval voorkomen.
@@ -31,6 +35,8 @@ We ontwikkelen een telefonische hulplijn voor leraren en zorgmedewerkers, worksh
 
 Met dit programma werken we toe naar een duurzame en structurele samenwerking tussen Leidse scholen en het Kenniscentrum Angst en Stress bij Jeugd. Gezamenlijk werken we aan nieuwe kennis en interventies, die sneller toegepast kunnen worden in het onderwijs.
 
+<br>
+<br>
 
 #### Aanmelden
 Het programma is nog volop in ontwikkeling, dus gedurende de looptijd (2020-2022) zult u op deze website meer informatie vinden. Wilt u met ons meedenken, meedoen of meer weten? 
