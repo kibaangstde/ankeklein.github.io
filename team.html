@@ -33,7 +33,7 @@ title: TEAM
     {% if remainder == 1 %}
     <div class="row">
     {% endif %}
-      {%if staff_member.alumni == false %}
+      {%if staff_member.group == "team" %}
         <div class="column">
           <div class="article">
             <div class="article-head">
@@ -60,7 +60,7 @@ title: TEAM
   </div>
   <div class="row">
     {% for staff_member in site.staff_members %}
-    {%if staff_member.alumni %}
+      {%if staff_member.group == "alumni" %}
     <div class="column">
       <div class="article">
         <div class="article-head">
@@ -82,7 +82,7 @@ title: TEAM
   </div>
   <div class="row">
     {% for staff_member in site.staff_members %}
-    {%if staff_member.alumni %}
+    {%if staff_member.group == "collaborator" %}
     <div class="column">
       <div class="article">
         <div class="article-head">

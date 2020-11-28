@@ -3,7 +3,7 @@ nameid: nine
 layout: teammember
 name: NINE WOLTERS
 title: junior onderzoeker
-alumni: true
+group: alumni
 summary: In Januari 2019 is Nine gestart aan een joint-PhD promotie project over angst en eenzaamheid aan de Universiteit van Amsterdam en Macquarie University (Australië) en wordt dagelijks begeleid door Anke.
 permalink: /team/nine
 image: /img/nine.jpg
