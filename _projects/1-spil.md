@@ -8,10 +8,6 @@ image: /img/spil4.jpg
 members: [leone, michiel, anika, anke, marjolein]
 ---
 
-<br>
-Hoe kunnen we scholen helpen stress en angst in de klas te herkennen en te voorkomen en samen met scholen leerlingen snel de juiste ondersteuning bieden? Doe mee met het SPIL-programma!
-
-Signalering, Preventie & Interventie bij Leerlingen met angst
 
 Doet u ook mee met het SPIL-programma? Scholen, leraren en zorgmedewerkers die met ons mee willen denken of doen zijn van harte welkom!
 
