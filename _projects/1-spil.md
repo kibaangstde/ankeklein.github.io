@@ -12,7 +12,6 @@ members: [leone, michiel, anika, anke, marjolein]
 Doet u ook mee met het SPIL-programma? Scholen, leraren en zorgmedewerkers die met ons mee willen denken of doen zijn van harte welkom!
 
 <br>
-<br>
 
 #### Achtergrond
 Stress- en angstklachten zijn wereldwijd de meest voorkomende mentale problemen en ontstaan vaak al in de kindertijd. Deze klachten gaan meestal niet vanzelf over en kunnen onbehandeld leiden tot eenzaamheid, andere psychische stoornissen, middelmisbruik, sociale problemen, verslechterde schoolprestaties of schooluitval.
@@ -22,7 +21,7 @@ Stress- en angstklachten worden vaak niet tijdig herkend, omdat ze zich uiten in
 Leerlingen met stress- en angstklachten worden hierdoor gehinderd in hun ontwikkeling, zowel binnen als buiten de school. Leraren en zorgmedewerkers willen hen graag ondersteunen, maar missen soms de tijd, ruimte, kennis en vaardigheden om op tijd signalen op te pikken en hier goed mee om te gaan.   
 
 <br>
-<br>
+
 
 #### Doel 
 Het doel van het SPIL-programma is om in nauwe samenwerking met Leidse scholen stress- en angstklachten bij kinderen en jongeren vroegtijdig op te sporen en te verhelpen. Hiermee willen we een veilig leerklimaat en gezonde sociaal-emotionele ontwikkeling stimuleren en schooluitval voorkomen.
